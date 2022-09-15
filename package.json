@@ -1,7 +1,7 @@
 {
   "homepage": "https://melilichka.github.io/flower-shop",
   "dependencies": {
-    "gh-pages": "^4.0.0"
+    "react-scripts": "4.0.1"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -10,5 +10,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
