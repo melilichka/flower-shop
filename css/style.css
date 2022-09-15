@@ -95,6 +95,7 @@ a {
 .header__company {
     width: 30rem;
     display: flex;
+    margin-right: 4rem;
     justify-content: space-between;
     align-items: center;
 }
